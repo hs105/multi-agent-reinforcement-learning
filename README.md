@@ -10,7 +10,7 @@ ROBERT H. CRITES, ANDREW G. BARTO, Machine Learning, 33, 235–262 (1998), [pdf]
 - Markov games as a framework for multi-agent reinforcement learning, Michael L. Littman, ICML, 1994 [pdf](https://www.researchgate.net/profile/Michael_Littman2/publication/2799903_Markov_Games_as_a_Framework_for_Multi-Agent_Reinforcement_Learning/links/54b66cbb0cf24eb34f6d19de.pdf)
 
 
-- Multi-agent reinforcement learning: Independent vs. cooperative agents, Ming Tan. [pdf](http://web.mit.edu/16.412j/www/html/Advanced%20lectures/2004/Multi-AgentReinforcementLearningIndependentVersusCooperativeAgents.pdf)
+- Multi-agent reinforcement learning: Independent vs. cooperative agents, ICML, 1993, Ming Tan. [pdf](http://web.mit.edu/16.412j/www/html/Advanced%20lectures/2004/Multi-AgentReinforcementLearningIndependentVersusCooperativeAgents.pdf)
 
 
 - An Algorithm for Distributed Reinforcement Learning in Cooperative Multi-Agent Systems,  Martin Lauer , Martin Riedmiller, ICML, 2000. [html version](https://www.researchgate.net/publication/225815648_Multi-agent_Reinforcement_Learning_An_Overview)
