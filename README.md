@@ -19,7 +19,7 @@ ROBERT H. CRITES, ANDREW G. BARTO, Machine Learning, 33, 235–262 (1998), [pdf]
 Trond Grenager, 2003. [pdf](http://www.cc.gatech.edu/~isbell/classes/2009/cs7641_spring/handouts/MALearning_ACriticalSurvey_2003_0516.pdf)
 
 - Multi-agent Reinforcement Learning for Traffic Light Control. Marco Weiring, ICML, 2000.
-http://www.dcsc.tudelft.nl/~sc4081/assign/pap/Reinforcement_Learning.pdf)
+[pdf](http://www.dcsc.tudelft.nl/~sc4081/assign/pap/Reinforcement_Learning.pdf)
 
 - Reinforcement learning in the multi-robot domain, MJ Matarić, Autonomous Robots 4, 73–83 (1997), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.1747&rep=rep1&type=pdf)
 
