@@ -34,4 +34,7 @@ Trond Grenager, 2003. [pdf](http://www.cc.gatech.edu/~isbell/classes/2009/cs7641
 - Reinforcement Learning for RoboCup-Soccer Keepaway, Peter Stone, Richard S. Sutton, and Gregory Kuhlmann.
 Adaptive Behavior, 2005. [pdf](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AB05.pdf)
 
+- The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems, Caroline Claus and Craig Boutilier. AAAI, 1998. [pdf](https://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf)
+
+
 
