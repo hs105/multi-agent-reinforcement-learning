@@ -1,4 +1,4 @@
-# Multi-agent-reinforcement-learning
+# Multi-agent Reinforcement Learning
 This maintains a reading list for multi-agent reinforcement learning. 
 
 #Papers
