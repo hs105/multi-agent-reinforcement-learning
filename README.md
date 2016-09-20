@@ -1,11 +1,11 @@
-# multi-agent-reinforcement-learning
+# Multi-agent-reinforcement-learning
 This maintains a reading list for multi-agent reinforcement learning. 
 
 #Papers
-Elevator Group Control Using Multiple Reinforcement Learning Agents, 
+- Elevator Group Control Using Multiple Reinforcement Learning Agents, 
 ROBERT H. CRITES, ANDREW G. BARTO, Machine Learning, 33, 235–262 (1998), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6183&rep=rep1&type=pdf)
 
-Hierarchical Multi-Agent Reinforcement Learning, Mohammad Ghavamzadeh, Sridhar Mahadevan, Rajbala Makar, JAAMAS, 2006. [pdf](http://www-anw.cs.umass.edu/pubs/2006/ghavamzadeh_mm_JAAMAS06.pdf)
+- Hierarchical Multi-Agent Reinforcement Learning, Mohammad Ghavamzadeh, Sridhar Mahadevan, Rajbala Makar, JAAMAS, 2006. [pdf](http://www-anw.cs.umass.edu/pubs/2006/ghavamzadeh_mm_JAAMAS06.pdf)
 
 Markov games as a framework for multi-agent reinforcement learning, Michael L. Littman, ICML, 1994 [pdf](https://www.researchgate.net/profile/Michael_Littman2/publication/2799903_Markov_Games_as_a_Framework_for_Multi-Agent_Reinforcement_Learning/links/54b66cbb0cf24eb34f6d19de.pdf)
 
