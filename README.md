@@ -19,11 +19,12 @@ This maintains a reading list for multi-agent reinforcement learning.
 
 - Coordinating multi-agent reinforcement learning with limited communication. C. Zhang and V. Lesser.  In AAMAS, volume 2, pages 1101–1108, 2013. [pdf](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf).
 
+- A novel multi-agent reinforcement learning approach for job scheduling in Grid computing, J Wu, X Xu, P Zhang, C Liu, 
+[pdf](A novel multi-agent reinforcement learning approach for job scheduling in Grid computing). 2011. 
+
 - Multi-agent reinforcement learning: An overview. L. Bus¸oniu, R. Babuska, and B. De Schutter. 2010. [pdf](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf).
 
 - Hierarchical Multi-Agent Reinforcement Learning, Mohammad Ghavamzadeh, Sridhar Mahadevan, Rajbala Makar, JAAMAS, 2006. [pdf](http://www-anw.cs.umass.edu/pubs/2006/ghavamzadeh_mm_JAAMAS06.pdf)
-
-- A novel multi-agent reinforcement learning approach for job scheduling in Grid computing, J Wu, X Xu, P Zhang, C Liu, 2011 [pdf](A novel multi-agent reinforcement learning approach for job scheduling in Grid computing)
 
 - Reinforcement Learning for RoboCup-Soccer Keepaway, Peter Stone, Richard S. Sutton, and Gregory Kuhlmann. Adaptive Behavior, 2005. [pdf](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AB05.pdf)
 
