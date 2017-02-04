@@ -23,13 +23,13 @@ This maintains a reading list for multi-agent reinforcement learning.
 
 - Hierarchical Multi-Agent Reinforcement Learning, Mohammad Ghavamzadeh, Sridhar Mahadevan, Rajbala Makar, JAAMAS, 2006. [pdf](http://www-anw.cs.umass.edu/pubs/2006/ghavamzadeh_mm_JAAMAS06.pdf)
 
-- Multi-Agent Reinforcement Learning: a critical survey. Yoav Shoham, Rob Powers and Trond Grenager, 2003. [pdf](http://www.cc.gatech.edu/~isbell/classes/2009/cs7641_spring/handouts/MALearning_ACriticalSurvey_2003_0516.pdf)
-
 - A novel multi-agent reinforcement learning approach for job scheduling in Grid computing, J Wu, X Xu, P Zhang, C Liu, 2011 [pdf](A novel multi-agent reinforcement learning approach for job scheduling in Grid computing)
 
 - Reinforcement Learning for RoboCup-Soccer Keepaway, Peter Stone, Richard S. Sutton, and Gregory Kuhlmann. Adaptive Behavior, 2005. [pdf](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AB05.pdf)
 
 - Multi-agent patrolling with reinforcement learning,Hugo Santana, Geber Ramalho, Vincent Corruble, Bohdana Ratitch, AAMAS, 2004. [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6566&rep=rep1&type=pdf)
+
+- Multi-Agent Reinforcement Learning: a critical survey. Yoav Shoham, Rob Powers and Trond Grenager, 2003. [pdf](http://www.cc.gatech.edu/~isbell/classes/2009/cs7641_spring/handouts/MALearning_ACriticalSurvey_2003_0516.pdf)
 
 - Learning competitive pricing strategies by multi-agent reinforcement learning, E Kutschinski, T Uthmann, D Polani - Journal of Economic Dynamics and finance, Erich Kutschinskia, , , Thomas Uthmannb, , Daniel Polani, 2003. [html link](http://www.sciencedirect.com/science/article/pii/S0165188902001227) 
 
