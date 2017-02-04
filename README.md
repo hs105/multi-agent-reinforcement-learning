@@ -3,23 +3,23 @@ This maintains a reading list for multi-agent reinforcement learning.
 
 #Papers
 
-- Multi-agent reinforcement learning as a rehearsal for decentralized planning. [pdf](http://www.ifaamas.org/Proceedings/aamas2013/docs/p1291.pdf). L. Kraemer and B. Banerjee. Neurocomputing, 190:82–94, 2016.
+- Multi-agent reinforcement learning as a rehearsal for decentralized planning. L. Kraemer and B. Banerjee. Neurocomputing, 190:82–94, 2016. [pdf](http://www.ifaamas.org/Proceedings/aamas2013/docs/p1291.pdf).
 
-- Learning to communicate to solve riddles with deep distributed recurrent q-networks. [pdf](https://arxiv.org/pdf/1602.02672.pdf). J. N. Foerster, Y. M. Assael, N. de Freitas, and S. Whiteson. arXiv preprint arXiv:1602.02672, 2016.
+- Learning to communicate to solve riddles with deep distributed recurrent q-networks. J. N. Foerster, Y. M. Assael, N. de Freitas, and S. Whiteson. arXiv preprint arXiv:1602.02672, 2016. [pdf](https://arxiv.org/pdf/1602.02672.pdf). 
 
-- Learning to Communicate with Deep Multi-Agent Reinforcement Learning. [pdf](https://arxiv.org/pdf/1605.06676v2.pdf). Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson. 2016. 
+- Learning to Communicate with Deep Multi-Agent Reinforcement Learning. Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson. 2016. [pdf](https://arxiv.org/pdf/1605.06676v2.pdf).
 
-- Coordinating multi-agent reinforcement learning with limited communication. [pdf](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf).  C. Zhang and V. Lesser.  In AAMAS, volume 2, pages 1101–1108, 2013.
+- Coordinating multi-agent reinforcement learning with limited communication. C. Zhang and V. Lesser.  In AAMAS, volume 2, pages 1101–1108, 2013. [pdf](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf).
 
-- Multiagent cooperation and competition with deep reinforcement learning. [pdf](https://arxiv.org/pdf/1511.08779v1). Ardi Tampuu, Tambet Matiisen, Dorian Kodelja, Ilya Kuzovkin, Kristjan Korjus, Juhan Aru, Jaan Aru, Raul Vicente. 2015.
+- Multiagent cooperation and competition with deep reinforcement learning. Ardi Tampuu, Tambet Matiisen, Dorian Kodelja, Ilya Kuzovkin, Kristjan Korjus, Juhan Aru, Jaan Aru, Raul Vicente. 2015. [pdf](https://arxiv.org/pdf/1511.08779v1).
 
-- Empirically evaluating multiagent learning algorithms. [pdf](https://arxiv.org/pdf/1401.8074v1). E. Zawadzki, A. Lipson, and K. Leyton-Brown. 2014. 
+- Empirically evaluating multiagent learning algorithms. E. Zawadzki, A. Lipson, and K. Leyton-Brown. 2014. [pdf](https://arxiv.org/pdf/1401.8074v1).
 
-- Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving. [pdf](https://arxiv.org/pdf/1610.03295v1.pdf). Shai Shalev-Shwartz, Shaked Shammah, Amnon Shashua. 2016.
+- Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving. Shai Shalev-Shwartz, Shaked Shammah, Amnon Shashua. 2016. [pdf](https://arxiv.org/pdf/1610.03295v1.pdf).
 
-- Multi-agent reinforcement learning: An overview. [pdf](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf). L. Bus¸oniu, R. Babuska, and B. De Schutter. 2010. 
+- Multi-agent reinforcement learning: An overview. L. Bus¸oniu, R. Babuska, and B. De Schutter. 2010. [pdf](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf).
 
-- Multi-Agent Deep Reinforcement Learning. [pdf](http://cs231n.stanford.edu/reports2016/122_Report.pdf). Maxim Egorov. 2016.
+- Multi-Agent Deep Reinforcement Learning. Maxim Egorov. 2016. [pdf](http://cs231n.stanford.edu/reports2016/122_Report.pdf).
 
 - Elevator Group Control Using Multiple Reinforcement Learning Agents, ROBERT H. CRITES, ANDREW G. BARTO, Machine Learning, 33, 235–262 (1998), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6183&rep=rep1&type=pdf)
 
