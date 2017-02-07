@@ -24,6 +24,8 @@ This maintains a reading list for multi-agent reinforcement learning.
 
 - Multi-agent reinforcement learning: An overview. L. Bus¸oniu, R. Babuska, and B. De Schutter. 2010. [pdf](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf).
 
+- A Distributed Actor-Critic Algorithm and Applications to Mobile Sensor Network Coordination Problems. Paris et al. IEEE TRANS. AUTOMATIC CONTROL, VOL. 55, NO. 2, FEB. 2010.  [html Link](http://ieeexplore.ieee.org/document/5382498/#full-text-section)
+
 - Hierarchical Multi-Agent Reinforcement Learning, Mohammad Ghavamzadeh, Sridhar Mahadevan, Rajbala Makar, JAAMAS, 2006. [pdf](http://www-anw.cs.umass.edu/pubs/2006/ghavamzadeh_mm_JAAMAS06.pdf)
 
 - Reinforcement Learning for RoboCup-Soccer Keepaway, Peter Stone, Richard S. Sutton, and Gregory Kuhlmann. Adaptive Behavior, 2005. [pdf](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AB05.pdf)
