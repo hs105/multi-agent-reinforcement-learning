@@ -1,7 +1,7 @@
 # Multi-agent Reinforcement Learning
 This maintains a reading list for multi-agent reinforcement learning. 
 
-#Papers
+# Papers
 
 - Multi-agent reinforcement learning as a rehearsal for decentralized planning. L. Kraemer and B. Banerjee. Neurocomputing, 190:82–94, 2016. [pdf](http://www.ifaamas.org/Proceedings/aamas2013/docs/p1291.pdf).
 
